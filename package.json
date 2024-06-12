@@ -1,6 +1,6 @@
 {
   "name": "simple-math-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个简单的运算工具哈哈哈",
   "main": "index.js",
   "scripts": {
